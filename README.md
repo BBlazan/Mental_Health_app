@@ -9,6 +9,7 @@ Responsive Design: Accessible across various devices.
 
 
 Technologies Used
+
 Frontend: React
 Backend: Django
 Database: PostgreSQL
