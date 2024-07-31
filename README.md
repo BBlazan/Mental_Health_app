@@ -1,4 +1,5 @@
 Features
+
 User Authentication: Secure login and registration system.
 Experience Sharing: Users can anonymously share their mental health experiences.
 Support Groups: Users can join or create support groups.
